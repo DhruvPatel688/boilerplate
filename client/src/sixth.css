@@ -1,0 +1,54 @@
+.background{
+  color: gray;
+}
+.spacer{
+  margin-bottom: %;
+  
+}
+.card13{
+
+  width: 280px;
+  height: 300px;
+  justify-content: space-between;
+  /*border: 2px solid #ccc;
+  border-radius: 25px;
+  box-shadow: 5px 5px 5px black;*/
+  margin : 3%;
+  text-align: center;
+  margin-bottom: 1%;
+
+
+}
+.card14{
+
+  width: 450px;
+  height: 600px;
+
+  justify-content: space-between;
+  border: 2px  #ccc;
+  border-radius: 25px;
+  /*box-shadow: 5px 5px 5px black;*/
+  margin : 2%;
+  text-align: center;
+
+
+
+}
+.full-card{
+  display: flex;
+}
+
+.btn-primary1{
+  background-color: gold;
+  border-radius: 10px;
+  max-width: 200px;
+  color: black;
+}
+.font-size{
+  font-size: 70px;
+  color: white;
+}
+
+.font-color{
+  color: white;
+}

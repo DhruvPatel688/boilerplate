@@ -1,0 +1,49 @@
+.card5{
+
+  width: 800px;
+  height: 700px;
+
+  justify-content: space-between;
+  /*border: 2px solid #ccc;*/
+  border-radius: 25px;
+  /*box-shadow: 5px 5px 5px black;*/
+  margin: 5%;
+
+ 
+
+}
+.card6{
+
+  width: 500px;
+  height: 400px;
+  margin-right: 1%;
+  justify-content: space-between;
+  border: 2px solid #ccc;
+  border-radius: 25px;
+  box-shadow: 5px 5px 5px black;
+  margin-top: 18%;
+  text-align: center;
+  
+
+
+
+}
+.full-card1{
+  display: flex;
+}
+
+.btn-primary2{
+  background-color: gold;
+  border-radius: 10px;
+  max-width: 200px;
+  color: black;
+}
+.font-size3{
+  font-size: 70px;
+  color: white;
+}
+
+.font-color3{
+  color: white;
+}
+
